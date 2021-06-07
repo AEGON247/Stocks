@@ -21,5 +21,3 @@ NOTE: Read the Requirements.txt file
 4) Run the file by typing : streamlit run Stocks.py 
 5) You're done !! Now you can view over 20 companies' stocks and their rise and fall
 
-# Live Demo
-Play the game live at [https://replit.com/@SachinMehta/WorldOfPong]
